@@ -1,0 +1,24 @@
+.wrapper {
+  background-color: beige;
+  justify-content: center;
+  align-items: center;
+  width: 1200px;
+  height: 800px;
+  display: flex;
+}
+
+.flexbox-container {
+  background-color: #fff;
+  border: 1px solid #4df74d;
+  flex-direction: row;
+  width: 800px;
+  height: 600px;
+  display: flex;
+}
+
+.product-image {
+  width: 50%;
+  height: auto;
+  margin-right: 10px;
+}
+/*# sourceMappingURL=index.1303bb05.css.map */
